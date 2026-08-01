@@ -1,0 +1,5 @@
+# Ignore dataset
+sample_supplies/
+
+# Jupyter checkpoint files
+.ipynb_checkpoints/
